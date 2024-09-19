@@ -3,7 +3,25 @@ Legitimate bug bounty programs value ethical practices and provide clear rewards
 
 Signs of a Trustworthy Bug Bounty Program:
 
-Clear Terms and Conditions: Programs that explicitly define which vulnerabilities qualify for rewards and the exact reward amounts.
-Transparent Payment Structure: Detailed information on payment timelines, payout methods, and consistent reports of researchers receiving their rewards.
-Positive Community Feedback: Strong reputation and positive reviews from the infosec community, indicating trustworthiness and reliability.
+`Clear Terms and Conditions`: Programs that explicitly define which vulnerabilities qualify for rewards and the exact reward amounts.
+`Transparent Payment Structure`: Detailed information on payment timelines, payout methods, and consistent reports of researchers receiving their rewards.
+
+
 Hits: # of reports of being trustworthy
+
+
+| Program Name              | Issues Reported                                        | Platform | Source     | Hits
+|---------------------------|-------------------------------------------------------|------------|----------------------| ------
+| **[Bentley](https://www.bentley.com/legal/bug-bounty-report/)**    | Chatty Champs<sup>6</sup><br>Reward Rodeo<sup>4</sup> |Self hosted| Trusted hacker        | 1
+| **[Telekom](https://www.telekom.com/en/company/data-privacy-and-security/news/help-us-to-become-better-360054)**    | Chatty Champs<sup>6</sup><br>Reward Rodeo<sup>4</sup> |Self hosted| Trusted hacker        | 1
+| **[Swisscom](https://github.com/swisscom/bugbounty)**    | Chatty Champs<sup>6</sup><br>Reward Rodeo<sup>4</sup><br>Scope Snoopers<sup>7</sup> |Self hosted| Trusted hacker        | 1
+
+## Details
+
+- <sup>1</sup>**Transparent Scope:** They clearly define in-scope and out-of-scope areas in their program brief before you submit a report.
+- <sup>2</sup>**Accessible rewards:** They pay rewards without requiring a difficult-to-obtain account on their site.
+- <sup>3</sup>**Bounty Clarity:** It’s clear whether they pay bounties, with transparent guidelines on payouts.  
+- <sup>4</sup>**Reward Rodeo:** They agree to pay a bounty and always follow through, responding to follow-up emails promptly.
+- <sup>5</sup>**No fix, no issue:**  Bug is triaged as CVSS 0 or no impact, and it’s not fixed since it was correctly identified as non-impactful.
+- <sup>6</sup>**Chatty Champs:** They run a responsive program, they reply to researchers quickly, usually within 1 month or less.
+- <sup>7</sup>**Scope Snoopers:** They maintain a well-organized and regularly updated list of in-scope and out-of-scope assets, ensuring that all researchers have clear guidance on which targets are eligible for bug submissions.
