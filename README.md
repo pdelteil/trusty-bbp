@@ -4,6 +4,7 @@ Legitimate bug bounty programs value ethical practices and provide clear rewards
 Signs of a Trustworthy Bug Bounty Program:
 
 `Clear Terms and Conditions`: Programs that explicitly define which vulnerabilities qualify for rewards and the exact reward amounts.
+
 `Transparent Payment Structure`: Detailed information on payment timelines, payout methods, and consistent reports of researchers receiving their rewards.
 
 
@@ -15,7 +16,7 @@ Hits: # of reports of being trustworthy
 | **[Bentley](https://www.bentley.com/legal/bug-bounty-report/)**    | Chatty Champs<sup>6</sup><br>Reward Rodeo<sup>4</sup> |Self hosted| Trusted hacker        | 1
 | **[Telekom](https://www.telekom.com/en/company/data-privacy-and-security/news/help-us-to-become-better-360054)**    | Chatty Champs<sup>6</sup><br>Reward Rodeo<sup>4</sup> |Self hosted| Trusted hacker        | 1
 | **[Swisscom](https://github.com/swisscom/bugbounty)**    | Chatty Champs<sup>6</sup><br>Reward Rodeo<sup>4</sup><br>Scope Snoopers<sup>7</sup> |Self hosted| Trusted hacker        | 1
-| **[Kaseya](https://www.kaseya.com/trust-center/vulnerability-disclosure-policy/)** |Reward Tortoise<sup>8</sup> | Self hosted| Trusted hacker     | 1 
+| **[Kaseya](https://www.kaseya.com/trust-center/vulnerability-disclosure-policy/)** |Reward Tortoise<sup>8</sup> | Self hosted| Trusted hacker     | 2 
 
 
 ## Details
