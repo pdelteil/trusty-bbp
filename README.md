@@ -13,9 +13,9 @@ Hits: # of reports of being trustworthy
 
 | Program Name              | Issues Reported                                        | Platform | Source     | Hits
 |---------------------------|-------------------------------------------------------|------------|----------------------| ------
-| **[Bentley](https://www.bentley.com/legal/bug-bounty-report/)**    | Chatty Champs<sup>6</sup><br>Reward Rodeo<sup>4</sup> |Self hosted| Trusted hacker        | 1
+| **[Bentley](https://www.bentley.com/legal/bug-bounty-report/)**    | Chatty Champs<sup>6</sup><br>Reward Rodeo<sup>4</sup> |Self hosted| Trusted hacker        |2
 | **[Telekom](https://www.telekom.com/en/company/data-privacy-and-security/news/help-us-to-become-better-360054)**    | Chatty Champs<sup>6</sup><br>Reward Rodeo<sup>4</sup> |Self hosted| Trusted hacker        | 1
-| **[Swisscom](https://github.com/swisscom/bugbounty)**    | Chatty Champs<sup>6</sup><br>Reward Rodeo<sup>4</sup><br>Scope Snoopers<sup>7</sup> |Self hosted| Trusted hacker        | 1
+| **[Swisscom](https://github.com/swisscom/bugbounty)**    | Chatty Champs<sup>6</sup><br>Reward Rodeo<sup>4</sup><br>Scope Snoopers<sup>7</sup> |Self hosted| Trusted hacker        |2
 | **[Kaseya](https://www.kaseya.com/trust-center/vulnerability-disclosure-policy/)** |Reward Tortoise<sup>8</sup> | Self hosted| Trusted hacker     | 2 
 
 
