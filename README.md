@@ -15,6 +15,8 @@ Hits: # of reports of being trustworthy
 | **[Bentley](https://www.bentley.com/legal/bug-bounty-report/)**    | Chatty Champs<sup>6</sup><br>Reward Rodeo<sup>4</sup> |Self hosted| Trusted hacker        | 1
 | **[Telekom](https://www.telekom.com/en/company/data-privacy-and-security/news/help-us-to-become-better-360054)**    | Chatty Champs<sup>6</sup><br>Reward Rodeo<sup>4</sup> |Self hosted| Trusted hacker        | 1
 | **[Swisscom](https://github.com/swisscom/bugbounty)**    | Chatty Champs<sup>6</sup><br>Reward Rodeo<sup>4</sup><br>Scope Snoopers<sup>7</sup> |Self hosted| Trusted hacker        | 1
+| **[Kaseya](https://www.kaseya.com/trust-center/vulnerability-disclosure-policy/)** |Reward Tortoise<sup>8</sup> | Self hosted| Trusted hacker     | 1 
+
 
 ## Details
 
@@ -25,3 +27,4 @@ Hits: # of reports of being trustworthy
 - <sup>5</sup>**No fix, no issue:**  Bug is triaged as CVSS 0 or no impact, and it’s not fixed since it was correctly identified as non-impactful.
 - <sup>6</sup>**Chatty Champs:** They run a responsive program, they reply to researchers quickly, usually within 1 month or less.
 - <sup>7</sup>**Scope Snoopers:** They maintain a well-organized and regularly updated list of in-scope and out-of-scope assets, ensuring that all researchers have clear guidance on which targets are eligible for bug submissions.
+- <sup>8</sup>**Reward Tortoise:** Patience is key for researchers, as they can expect their rewards to arrive eventually, even if it takes a much longer than anticipated. BUT THEY PAY!
