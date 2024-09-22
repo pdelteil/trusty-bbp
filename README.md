@@ -22,6 +22,7 @@ Hits: # of reports of being trustworthy
 | **[Liquidweb](https://www.liquidweb.com/policies/bug-bounty-program/)** |Chatty Champs<sup>6</sup><br>Reward Rodeo<sup>4</sup><br>| Self hosted| Trusted hacker     | 1
 | **[Proton](https://proton.me/security/bug-bounty)** |Chatty Champs<sup>6</sup><br>Reward Rodeo<sup>4</sup><br>| Self hosted| Trusted hacker     | 1
 | **[Oroinc](https://hive.oroinc.com/bug-bounty/)** |Chatty Champs<sup>6</sup><br>Reward Rodeo<sup>4</sup><br>| Self hosted| Trusted hacker     | 1
+| **[AnimalFriends](https://www.animalfriends.co.uk/bug-bounty/)**|Reward Tortoise<sup>8</sup> | Self hosted| Trusted hacker     | 2
 
 
 ## Details
